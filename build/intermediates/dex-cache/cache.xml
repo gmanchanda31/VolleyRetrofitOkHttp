@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2fc9ae7dc748ecaf15c7c6fd4f9d82f41b9c9498">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9d6911921f239b45235eb7846c43296aa129664d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gourav/.android/build-cache/f27990af2e6d62b667ffa7d6fbbadacc38bdb11a/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_e9b40e4415903938d44f2b1b4378a26815b76ba3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gourav/.android/build-cache/cd2bb7619976ffc7e31add33219e049c351c5e09/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed786023df957861e7d13d128141693dc3c13efb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gourav/.android/build-cache/f6394cd9f203d6089ee7e4dcc4746f7419e47e38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/pre-dexed/debug/classes_6afa2d4a8c86659dcecd0f95520ecb1d040b0ef2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gourav/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_86191ada46fd72e41dc13738c5507c38799eddbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gourav/.android/build-cache/86629ed83e34eda72f53ce8160bc1457676cffb9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6061876cdde2d8d4e9be46e963fee46489503102/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gourav/.android/build-cache/cd2bb7619976ffc7e31add33219e049c351c5e09/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/pre-dexed/debug/classes_ed786023df957861e7d13d128141693dc3c13efb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gourav/.android/build-cache/c835cc8e11b7e683619321644f401e6b3861ec02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_891550335f779e8c65a64013bc0cab33b6306a4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gourav/.android/build-cache/f6394cd9f203d6089ee7e4dcc4746f7419e47e38/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6afa2d4a8c86659dcecd0f95520ecb1d040b0ef2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gourav/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0-beta4/de5935a367ba5e343e9df786ac8fc0c7d52b5f0c/converter-gson-2.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de5935a367ba5e343e9df786ac8fc0c7d52b5f0c">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0-beta4_ae482623abf50c6811bcbaf3dc3467e015c6a126/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_feaa8c95862aea2366301a7a13143b1e9c495689/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gourav/.android/build-cache/f27990af2e6d62b667ffa7d6fbbadacc38bdb11a/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_e9b40e4415903938d44f2b1b4378a26815b76ba3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gourav/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_091274cc7e0a6e6e55823cd6793c0f9206e3ae29.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gourav/.android/build-cache/11698ec5e37f6ce81b409c509046898eb8de1797/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d02bc32be81f8c998ea81555300aa78d92a8b67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gourav/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_091274cc7e0a6e6e55823cd6793c0f9206e3ae29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gourav/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.4_7c6a1be1d91886a277927da17ce2843862bad1f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gourav/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0-beta4/739e00dea1f0ac04fdb9b6160d667e23cc50a791/retrofit-2.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0-beta4_d5461038c72fe55957cfb7b5264f4e33f4d00e99/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gourav/.android/build-cache/86629ed83e34eda72f53ce8160bc1457676cffb9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/pre-dexed/debug/classes_6061876cdde2d8d4e9be46e963fee46489503102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gourav/.android/build-cache/f27990af2e6d62b667ffa7d6fbbadacc38bdb11a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/pre-dexed/debug/classes_7b22f4a6dd6fd114ff96c24e29b89bce0f6e43ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gourav/.android/build-cache/11698ec5e37f6ce81b409c509046898eb8de1797/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/pre-dexed/debug/classes_0d02bc32be81f8c998ea81555300aa78d92a8b67.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gourav/.android/build-cache/f27990af2e6d62b667ffa7d6fbbadacc38bdb11a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b22f4a6dd6fd114ff96c24e29b89bce0f6e43ea/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Mon Apr 24 15:41:10 IST 2017
+base.0=/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_feaa8c95862aea2366301a7a13143b1e9c495689
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9d6911921f239b45235eb7846c43296aa129664d/classes.dex
+base.1=/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9d6911921f239b45235eb7846c43296aa129664d
+file.0=/home/gourav/AndroidStudioProjects/RepoSearch_starter/RepoSearch_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_feaa8c95862aea2366301a7a13143b1e9c495689/classes.dex
